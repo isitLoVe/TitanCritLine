@@ -48,7 +48,8 @@ TITAN_CRITLINE_MOBFILTER_02					= "Death Talon Overseer";
 TITAN_CRITLINE_MOBFILTER_03					= "Death Talon Wyrmguard";
 TITAN_CRITLINE_MOBFILTER_04					= "Vaelastrasz the Corrupt";
 TITAN_CRITLINE_MOBFILTER_05					= "Ossirian the Unscarred";
-
+TITAN_CRITLINE_MOBFILTER_06					= "Thaddius";
+TITAN_CRITLINE_MOBFILTER_07					= "Deathknight Understudy";
 
 COMBAT_HIT_MSG			= "You hit (.+) for (%d+).";
 COMBAT_CRIT_MSG			= "You crit (.+) for (%d+).";

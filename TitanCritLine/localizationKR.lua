@@ -50,6 +50,9 @@ if ( GetLocale() == "koKR" ) then
 	TITAN_CRITLINE_MOBFILTER_03					= "죽음의발톱 고룡수호병";
 	TITAN_CRITLINE_MOBFILTER_04					= "타락의 밸라스트라즈";
 	TITAN_CRITLINE_MOBFILTER_05					= "무적의 오시리안";
+	TITAN_CRITLINE_MOBFILTER_06					= "타락의 밸라스트라즈";
+	TITAN_CRITLINE_MOBFILTER_07					= "무적의 오시리안";
+
 
 	COMBAT_HIT_MSG = "(.+)|1을;를; 공격하여 (%d+)의 피해를 입혔습니다.";
 	COMBAT_CRIT_MSG	= "(.+)|1을;를; 공격하여 (%d+)의 치명상을 입혔습니다.";
