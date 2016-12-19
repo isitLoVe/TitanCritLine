@@ -5,8 +5,12 @@ CritLine Concept by Sordit
 Titan Conversion until version 0.3.7 by Uggh
 Continued Development from 0.3.7 by FALLI
 Small update at 0.4.0f/g by Snowblind
+filter update by Luise v0.4.h
 
 VERSION HISTORY:
+Titan [CritLine] v0.4.0h
+Added Thaddius and Deathknight Understudy to filter
+
 Titan [CritLine] v0.4.0e
 -fix some database issues
 
@@ -101,7 +105,7 @@ DEBUG = false; -- for internal testing only, left it to false !
 
 --[[ global addon variables ]]
 TITAN_CRITLINE_ID =  "CritLine";
-TITAN_CRITLINE_VERSION = " v0.4.0g";
+TITAN_CRITLINE_VERSION = " v0.4.0h";
 TITAN_CRITLINE_BUTTON_LABEL = "CL: ";
 TITAN_CRITLINE_BUTTON_ICON = "Interface\\AddOns\\TitanCritLine\\TitanCritLine";
 TITAN_CRITLINE_BUTTON_TEXT = "%s/%s";
